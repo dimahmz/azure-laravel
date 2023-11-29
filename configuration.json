@@ -1,0 +1,47 @@
+[
+  {
+    "name": "APP_DEBUG",
+    "value": "true",
+    "slotSetting": false
+  },
+  {
+    "name": "APP_KEY",
+    "value": "",
+    "slotSetting": false
+  },
+  {
+    "name": "AZURE_MYSQL_FLAG",
+    "value": "MYSQLI_CLIENT_SSL",
+    "slotSetting": true
+  },
+  {
+    "name": "DB_DATABASE",
+    "value": "",
+    "slotSetting": true
+  },
+  {
+    "name": "DB_HOST",
+    "value": "",
+    "slotSetting": true
+  },
+  {
+    "name": "DB_PASSWORD",
+    "value": "",
+    "slotSetting": true
+  },
+  {
+    "name": "DB_PORT",
+    "value": "3306",
+    "slotSetting": true
+  },
+  {
+    "name": "DB_USERNAME",
+    "value": "",
+    "slotSetting": true
+  },
+  {
+    "name": "MYSQL_ATTR_SSL_CA",
+    "value": "",
+    "slotSetting": false
+  }
+]
